@@ -1,0 +1,11 @@
+nav > ul > li{
+	text-decoration: none;
+	display:inline;
+	background-color: white;
+	color: black;
+}
+
+.current {
+	text-decoration: none;
+	color: #000000;
+}
