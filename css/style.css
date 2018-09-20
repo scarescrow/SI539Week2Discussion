@@ -18,7 +18,19 @@ nav > ul > li > a {
 	color: blue;
 }
 
+nav > ul > li > a:hover {
+	color: green;
+}
+
 .current {
 	text-decoration: none;
 	color: #000000;
+}
+
+.current:hover {
+	color: black;
+}
+
+.nav-item-text {
+	margin-left: 5px;
 }
